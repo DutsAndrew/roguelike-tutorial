@@ -8,3 +8,4 @@ stage 2 - clear
 stage 3 - clear
 stage 4 - clear
 stage 5 - clear
+stage 6 - clear
